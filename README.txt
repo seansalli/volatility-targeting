@@ -12,7 +12,7 @@ I compared three volatility estimators (a rolling average, a EWMA, and a GARCH m
 What's in this repository
 -------------------------
 data/    (Raw price data and processed vol estimates)
-src/     (Six Python scripts, run in order below)
+Six Python scripts, run in order below
 
 
 How to run
